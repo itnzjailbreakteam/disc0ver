@@ -1,6 +1,6 @@
-# unc0ver dark
-## Please Avoid using this on iOS 11 for the moment.
-### Join the u0 Dark [Discord](https://discord.gg/4pYwBCb)
+# disc0ver
+## disc0ver jb for ioz eleven - ios tw3lve wit a14 sup0rt !
+### install cydown if cydia dosen't work
 ### Uninstall CyDown if your Cydia is crashing!
 ### Join the dark side
 ![Vader](https://diatr.us/img/dv.gif)
@@ -21,7 +21,6 @@ original unc0ver UI by [Dennis Bednarz](https://twitter.com/DennisBednarz) & [Sa
 * If you used Diatrus's Sileo Installer on regular unc0ver, it will be automatically removed for you.
 ## Getting support
 * Use the built-in diagnostics tool
-* Join the u0 Dark [Discord](https://discord.gg/4pYwBCb)
 * Join the Jailbreak [Discord](http://heywhatsupguysits.icu)
 * r/jailbreak on [Reddit](https://reddit.com/r/jailbreak)
 
