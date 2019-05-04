@@ -1,7 +1,6 @@
 # disc0ver
 ## disc0ver jb for ioz eleven - ios tw3lve wit a14 sup0rt !
 ### install cydown if cydia dosen't work
-### Uninstall CyDown if your Cydia is crashing!
 ### Join the dark side
 ![Vader](https://diatr.us/img/dv.gif)
 
